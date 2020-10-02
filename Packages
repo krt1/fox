@@ -1,4 +1,4 @@
-Package: ABUFAISAL_2.2.2.iphoneos-arm.deb
+Package: com.tencent.ig
 Name: BFOX	MENU MOD
 Depends: mobilesubstrate, 
 Version: 2.2.2
@@ -12,7 +12,7 @@ MD5sum: 69cde5d524d807315f51900d22a8c179
 
 
 
-Package: com.ABUFAISAL_2.2.1.iphoneos-arm.deb
+Package: com.tencent.ig
 Name: BFOX	MENU MOD
 Depends: mobilesubstrate, 
 Version: 2.2.1
