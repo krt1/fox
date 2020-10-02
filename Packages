@@ -21,5 +21,5 @@ Maintainer: FOX
 Architecture: iphoneos-arm
 Section: Tweaks
 Size: 129,044
-Filename: debs/ABUFAISAL_2.2.1.iphoneos-arm.deb
+Filename: ./debs/ABUFAISAL_2.2.1.iphoneos-arm.deb
 MD5sum: 69cde5d524d807315f51900d22a8c179
