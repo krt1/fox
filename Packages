@@ -1,4 +1,4 @@
-Package: com.tencent.ig
+Package: com.iphones.net
 Name: BFOX	MENU MOD
 Depends: mobilesubstrate, 
 Version: 2.2.2
@@ -10,10 +10,5 @@ SileoDepiction:
 Architecture: iphoneos-arm
 Section: Tweaks
 Size: 724
-MD5: 69cde5d524d807315f51900d22a8c179
-SHA1: fc31bd2c350c6e4636d3b99d82db2b00a759344a
-SHA256: 5a0166f060a388462851be253a56111f6003eb7c657275170e3843e73655e28e
-SHA-384: 95bee3cab392e5acb1d40b393cbea39e6de90b296077f814f3cecb949c60200d800d77ba5a27fc95d6b4fba329945fa7
-SHA-512: ad6c8f431344dc854bd44d64b2fe38c990257625878bdea9a29104b751e8d83b1a0774dc1c728d8c4eaf984a7a37c1649a50c56cecef3ccbd953c6d03f550b6c
 Filename: ./debs/ABUFAISAL_2.2.2.iphoneos-arm.deb
 Name: PUBGM
