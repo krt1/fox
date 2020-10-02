@@ -6,13 +6,4 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: أدوات ببجي موبايل هاك
-MD5Sum:
- fc69c66889f888b06cfbe8f765e06556 380 Packages
- fae894c49b8865ac52f7c302a608b961 972 Packages.gz
-SHA1:
- c5277056ec043c6190633c790bb9550f8866e38d 380 Packages
- 5f198434775163e2b2f5bee50c704f5f4265ae2a 972 Packages.gz
-SHA256:
- 29af8c5b4ee2f277d0da0a036b5b7ff933ff383e9971b8ff0c1bcd7a3af91ad0 380 Packages
- 0e5cfc2c50ec536dff23fe170a5246c46c862ddccca5734522f55ec49e133dc8 972 Packages.gz
 
