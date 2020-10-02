@@ -1,25 +1,14 @@
-Package: com.tencent.ig
+Package: ABUFAISAL_2.2.2.iphoneos-arm.deb
 Name: BFOX	MENU MOD
 Depends: mobilesubstrate, 
 Version: 2.2.2
 Author: FAWAZ
 Maintainer: FOX
+Description: Replaces the battery icon with percentage on the iPhone X
+Depiction:
+SileoDepiction:
 Architecture: iphoneos-arm
 Section: Tweaks
 Size: 129,044
 Filename: ./debs/ABUFAISAL_2.2.2.iphoneos-arm.deb
-MD5sum: 69cde5d524d807315f51900d22a8c179
-
-
-
-Package: com.tencent.ig
-Name: BFOX	MENU MOD
-Depends: mobilesubstrate, 
-Version: 2.2.1
-Author: FAWAZ
-Maintainer: FOX
-Architecture: iphoneos-arm
-Section: Tweaks
-Size: 129,044
-Filename: ./debs/ABUFAISAL_2.2.1.iphoneos-arm.deb
 MD5sum: 69cde5d524d807315f51900d22a8c179
