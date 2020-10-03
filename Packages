@@ -4,7 +4,7 @@ Depends: mobilesubstrate,
 Version: 2.2.2
 Author: FAWAZ
 Maintainer: FOX
-Description: تحتاج الى كود شيتو للحمايه
+Description:  تحتاج الى كود شيتو للحمايه
 Depiction:
 SileoDepiction:
 Architecture: iphoneos-arm
