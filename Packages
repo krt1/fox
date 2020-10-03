@@ -12,3 +12,21 @@ Section: Tweaks
 Size: 724
 Filename: ./debs/ABUFAISAL_2.2.2.iphoneos-arm.deb
 Name: PUBGM
+
+
+
+
+Package: com.superking.ludo.star
+Depends: mobilesubstrate, 
+Version: 2.2.2
+Author: FAWAZ
+Maintainer: FOX
+Description: - 99 Undo Rolls Per Match
+Depiction:
+SileoDepiction:
+Architecture: iphoneos-arm
+Section: Tweaks
+Size: 724
+MD5sum: dc30ca6a0ceeee56cdb6d4db555d7145
+Filename: ./debs/com.k.ludostar_1.13+iOSGods.com_iphoneos-arm.deb
+Name: Ludo STAR Hack
