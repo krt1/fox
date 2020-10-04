@@ -1,16 +1,16 @@
-Package: Fox
-Name: abu faisl Mod Menu
+Package: IOS
+Name: ABU FAISAL Mod Menu
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Abu Faisl Mod Menu
-Maintainer: Abu Faisl IOS
-Author: Abu Faisl IOS
+Description: ABU FAISAL Mod
+Maintainer: ABU FAISAL IOS
+Author: ABU FAISAL mod ios
 Section: Tweaks
-Homepage: Fox
-Version: 1.0.8
-Installed-Size: 332
-MD5sum: 3bc79927289d7dff5892ba6be2a090c2
-Filename: ./debs/Fox_v2.1.deb
+Homepage: MTMRD
+Version: 2.2.1
+Installed-Size: 348
+MD5sum: 69cde5d524d807315f51900d22a8c179
+Filename: ./debs/ABUFAISAL_2.2.2.iphoneos-arm.deb
 
 
 
@@ -31,3 +31,16 @@ Filename: ./debs/com.k.ludostar_1.13+iOSGods.com_iphoneos-arm.deb
 Name: Ludo STAR Hack
 
 
+Package: Fox
+Name: abu faisl Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Abu Faisl Mod Menu
+Maintainer: Abu Faisl IOS
+Author: Abu Faisl IOS
+Section: Tweaks
+Homepage: Fox
+Version: 1.0.8
+Installed-Size: 332
+MD5sum: 3bc79927289d7dff5892ba6be2a090c2
+Filename: ./debs/Fox_v2.1.deb
