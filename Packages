@@ -1,8 +1,8 @@
 Package: IOS
-Name: ABU FAISAL Mod Menu
+Name: PUBGM2.2.2
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: ABU FAISAL Mod
+Description: تحتاج الكود من ابوفيصل
 Maintainer: ABU FAISAL IOS
 Author: ABU FAISAL mod ios
 Section: Tweaks
@@ -32,10 +32,10 @@ Name: Ludo STAR Hack
 
 
 Package: Fox
-Name: abu faisl Mod Menu
+Name: PUBGM1.0.8
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Abu Faisl Mod Menu
+Description: تحتاج الى كود من ابوفيصل
 Maintainer: Abu Faisl IOS
 Author: Abu Faisl IOS
 Section: Tweaks
